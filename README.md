@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @melaniepy
-- 👀 I’m interested in everything
+- 👋 Hi, I’m Melanie!
+- 👀 I’m interested in programming and the likes
 - 🌱 I’m currently learning fullstack
 - 💞️ I’m looking to collaborate on amazing projects
 - 📫 How to reach me on melanieblogged@gmail.com
